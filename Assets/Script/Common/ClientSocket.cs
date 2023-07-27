@@ -522,6 +522,7 @@ public class ClientSocket
         }
         catch (Exception ex)
         {
+            // ignored
         }
     }
 
